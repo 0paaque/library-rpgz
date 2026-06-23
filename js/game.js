@@ -169,7 +169,7 @@ const rooms = [
     {
         id: "books",
         x: 580,
-        y: 355,
+        y: 390,
         w: 300,
         h: 200,
 
@@ -196,7 +196,7 @@ const rooms = [
     {
         id: "borrow",
         x: 1400,
-        y: 355,
+        y: 390,
         w: 300,
         h: 200,
 
@@ -212,7 +212,7 @@ const rooms = [
     {
         id: "security",
         x: 2200,
-        y: 355,
+        y: 390,
         w: 300,
         h: 200,
 
@@ -234,7 +234,7 @@ const rooms = [
     {
         id: "catalog",
         x: 3000,
-        y: 355,
+        y: 390,
         w: 300,
         h: 200,
 
@@ -250,7 +250,7 @@ const rooms = [
     {
         id: "staff",
         x: 4000,
-        y: 355,
+        y: 390,
         w: 300,
         h: 200,
 

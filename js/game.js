@@ -376,22 +376,22 @@ function move() {
 const roomSounds = {
 
     books: {
-        audio: new Audio("../audio/mixkit-arabian-mystery-harp-notification-2489.wav"),
+        audio: new Audio("audio/mixkit-arabian-mystery-harp-notification-2489.wav"),
         volume: 0.1
     },
 
     borrow: {
-        audio: new Audio("../audio/mixkit-guitar-stroke-up-2328.wav"),
+        audio: new Audio("audio/mixkit-guitar-stroke-up-2328.wav"),
         volume: 0.3
     },
 
     security: {
-        audio: new Audio("../audio/mixkit-nylon-guitar-single-note-2332.wav"),
+        audio: new Audio("audio/mixkit-nylon-guitar-single-note-2332.wav"),
         volume: 0.5
     },
 
     catalog: {
-        audio: new Audio("../audio/mixkit-bell-sound-with-delay-585.wav"),
+        audio: new Audio("audio/mixkit-bell-sound-with-delay-585.wav"),
         volume: 0.5
     },
 
